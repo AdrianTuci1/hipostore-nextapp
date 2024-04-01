@@ -2,11 +2,7 @@
   "name": "parfumestore",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
-   "engines": {
-=======
   "engines": {
->>>>>>> 18e9b81 (final)
     "node": "20.10"
   },
   "scripts": {
